@@ -31,3 +31,6 @@ To build the library and generate `libft.a`:
 
 ```bash
 make
+make clean     # Remove object files
+make fclean    # Remove all (incl. libft.a)
+make re        # Rebuild everything
